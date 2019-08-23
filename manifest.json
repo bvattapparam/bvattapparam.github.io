@@ -1,11 +1,11 @@
 {
-    "name": "pwademo",
-    "short_name": "pwademo",
+    "name": "PROFILE",
+    "short_name": "PROFILE",
     "theme_color": "#1976d2",
     "background_color": "#fafafa",
     "display": "fullscreen",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "/index.html",
     "icons": [
         {
         "src": "assets/icons/face.png",
