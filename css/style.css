@@ -360,7 +360,7 @@ form .cv-button {
 .cv-page-content {
     position: relative;
     display: inline-block;
-    padding: 60px;
+    padding: 30px;
     width: 100%;
     vertical-align: bottom;
     margin: 0px;
@@ -929,6 +929,7 @@ form .cv-button {
 	height:40px;
 	line-height:40px;
     font-size: 15px;
+    color: #333333;
 }
 .skillbar-bar {
 	height:40px;

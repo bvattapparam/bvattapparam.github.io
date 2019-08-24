@@ -284,10 +284,10 @@ textarea:focus {
 }
 .skillbar-bar {
     background-color: #f3f3f3;
-    background-image: linear-gradient(135deg, rgba(0, 0, 0, 0.01) 25%, transparent 25%, transparent 50%, rgba(0, 0, 0, 0.01) 50%, rgba(0, 0, 0, 0.01) 75%, transparent 75%, transparent);
+    background-image: linear-gradient(135deg, #f7e2e2 25%, transparent 25%, transparent 50%, #f7e2e2 50%, #f7e2e2 75%, transparent 75%, transparent);
 }
 .skill-bar-percent {
-	color:#949494;
+	color:#000000;
 }
 /* ================= SKILLS ================== */
 .cv-resume-title {
