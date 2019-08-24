@@ -1,4 +1,4 @@
-const cacheName = 'V1';
+const cacheName = 'Cached-V1';
 const cacheAssets = [
     "/",
     "assets/icons/face.png",
